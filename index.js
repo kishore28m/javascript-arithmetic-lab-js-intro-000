@@ -29,3 +29,8 @@ function  makeInt(a){
   parseInt(a);
   return a;
 }
+
+function  makeInt(a){
+  var z = parseInt(a,10);
+  return z;
+}
