@@ -26,8 +26,8 @@ function dec(a){
 }
 
 function  makeInt(a){
-  parseInt(a);
-  return a;
+  var y = parseInt(a);
+  return y;
 }
 
 function  makeInt(a){
