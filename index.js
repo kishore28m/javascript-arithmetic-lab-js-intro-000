@@ -25,11 +25,6 @@ function dec(a){
   return a ;
 }
 
-/*function  makeInt(a){
-  var y = parseInt(a);
-  return y;
-}*/
-
 function  makeInt(a){
   var z = parseInt(a,10);
   return z;
